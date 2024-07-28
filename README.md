@@ -17,7 +17,7 @@
 
 ![Snake animation](https://github.com/jpdini/jpdini/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=jpdini&repo=jpdini&theme=react)](https://github.com/jpdini/jpdini)
+
 </div>
 
 
